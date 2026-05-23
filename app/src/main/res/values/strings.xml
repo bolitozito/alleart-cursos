@@ -2,4 +2,7 @@
     <string name="app_name">alleart</string>
     <string name="strDireitos">Direitos reservadospara alleartcursos.com.br</string>
     <string name="strEquipe">Equipe</string>
+    <string name="strCursos">Cursos</string>
+    <string name="strMidias">Mídia</string>
+    <string name="strVoltar">Voltar</string>
 </resources>
